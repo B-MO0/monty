@@ -1,3 +1,4 @@
+/* B_MO */
 #include "monty.h"
 /**
  * addnode - add node to the head stack

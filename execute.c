@@ -1,3 +1,4 @@
+/* B_MO */
 #include "monty.h"
 /**
 * execute - executes the opcode
